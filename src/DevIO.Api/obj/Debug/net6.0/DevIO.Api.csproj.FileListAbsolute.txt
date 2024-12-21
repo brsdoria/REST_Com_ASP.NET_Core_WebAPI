@@ -138,3 +138,4 @@ C:\Users\User\Desktop\GITHUB\PUBLICADOS\REST_ASP_NET_Core_WebAPI\src\DevIO.Api\o
 C:\Users\User\Desktop\GITHUB\PUBLICADOS\REST_ASP_NET_Core_WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.pdb
 C:\Users\User\Desktop\GITHUB\PUBLICADOS\REST_ASP_NET_Core_WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.genruntimeconfig.cache
 C:\Users\User\Desktop\GITHUB\PUBLICADOS\REST_ASP_NET_Core_WebAPI\src\DevIO.Api\obj\Debug\net6.0\ref\DevIO.Api.dll
+C:\Users\User\Desktop\GITHUB\PUBLICADOS\REST_ASP_NET_Core_WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.sourcelink.json
