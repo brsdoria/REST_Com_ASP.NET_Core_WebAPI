@@ -1,4 +1,4 @@
-# REST com ASP.NET Core WebAPI
+# REST com ASP.NET Core WebAPI 
 
 Demonstração da aplicabilidade dos princípios do SOLID por meio de exemplos que ilustram tanto a violação quanto a solução de cada um deles: SRP (Princípio da Responsabilidade Única), OCP (Princípio do Aberto-Fechado), LSP (Princípio da Substituição de Liskov), ISP (Princípio da Segregação de Interfaces) e DIP (Princípio da Inversão de Dependências).
 
