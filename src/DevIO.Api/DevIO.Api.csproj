@@ -42,6 +42,7 @@
 
 	<ItemGroup>
 	  <Folder Include="Controllers\" />
+	  <Folder Include="screenshots\" />
 	</ItemGroup>
 
 </Project>
