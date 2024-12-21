@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevIO.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7930dca6a236089572fcca32969850c78f9bed0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd9bc4dc9369b7892a80675473f2701dfb524c1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevIO.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevIO.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
