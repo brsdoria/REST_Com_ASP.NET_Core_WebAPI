@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\REST_ASP_NET_Core_WebAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1D611-0E81-4E97-9D4C-5ED609E9FD52}|src\\DevIO.Api\\DevIO.Api.csproj|c:\\users\\user\\desktop\\github\\publicados\\rest_asp_net_core_webapi\\src\\devio.api\\devio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86F1D611-0E81-4E97-9D4C-5ED609E9FD52}|src\\DevIO.Api\\DevIO.Api.csproj|solutionrelative:src\\devio.api\\devio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A020BE-B7EB-4E13-9B67-2814A4B48061}|src\\DevIO.Data\\DevIO.Data.csproj|c:\\users\\user\\desktop\\github\\publicados\\rest_asp_net_core_webapi\\src\\devio.data\\devio.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0A020BE-B7EB-4E13-9B67-2814A4B48061}|src\\DevIO.Data\\DevIO.Data.csproj|solutionrelative:src\\devio.data\\devio.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BE3679-360F-420C-AE6E-899DDB89DCC3}|src\\DevIO.Business\\DevIO.Business.csproj|c:\\users\\user\\desktop\\github\\publicados\\rest_asp_net_core_webapi\\src\\devio.business\\devio.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6BE3679-360F-420C-AE6E-899DDB89DCC3}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\devio.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DevIO.Data",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\REST_ASP_NET_Core_WebAPI\\src\\DevIO.Data\\DevIO.Data.csproj",
+              "RelativeDocumentMoniker": "src\\DevIO.Data\\DevIO.Data.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\REST_ASP_NET_Core_WebAPI\\src\\DevIO.Data\\DevIO.Data.csproj",
+              "RelativeToolTip": "src\\DevIO.Data\\DevIO.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T20:35:16.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DevIO.Business",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\REST_ASP_NET_Core_WebAPI\\src\\DevIO.Business\\DevIO.Business.csproj",
+              "RelativeDocumentMoniker": "src\\DevIO.Business\\DevIO.Business.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\REST_ASP_NET_Core_WebAPI\\src\\DevIO.Business\\DevIO.Business.csproj",
+              "RelativeToolTip": "src\\DevIO.Business\\DevIO.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T20:34:49.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DevIO.Api",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\REST_ASP_NET_Core_WebAPI\\src\\DevIO.Api\\DevIO.Api.csproj",
+              "RelativeDocumentMoniker": "src\\DevIO.Api\\DevIO.Api.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GITHUB\\PUBLICADOS\\REST_ASP_NET_Core_WebAPI\\src\\DevIO.Api\\DevIO.Api.csproj",
+              "RelativeToolTip": "src\\DevIO.Api\\DevIO.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T20:31:20.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
