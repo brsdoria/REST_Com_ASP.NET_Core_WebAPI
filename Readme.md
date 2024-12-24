@@ -50,6 +50,14 @@ dotnet add package Microsoft.NET.Sdk.Web --version 6.0.0
 6.0.3
 ```
 
+## 🚧 Fluxo da Arquitetura do Projeto
+
+![FluxoArquitetura1](screenshots/fluxo_arquitetura_1.png)
+
+![FluxoArquitetura2](screenshots/fluxo_arquitetura_2.png)
+
+![FluxoArquitetura3](screenshots/fluxo_arquitetura_3.png)
+
 ## 🚧 Descrição da Estrutura do Projeto
 
 A estrutura do projeto segundo a imagem abaixo é composta da seguinte forma:
