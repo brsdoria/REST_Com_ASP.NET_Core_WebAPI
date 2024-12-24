@@ -2,17 +2,21 @@
 
 ## 📝️ Escopo do Projeto
 
+<p align="justify"> 
 O projeto envolve três entidades na camada de negócio que interagem com o banco de dados. 
 A entidade Fornecedor possui regras de negócios e validações, representando uma tabela no banco de dados. 
 Ao cadastrar um fornecedor, é necessário também cadastrar seu Endereço, que também é uma entidade com 
 validações e regras, representando uma tabela no banco, e tem um relacionamento 1:1 com o fornecedor, pois 
 cada fornecedor possui apenas um endereço.
+</p>
 
+<p align="justify"> 
 Além disso, existe a entidade Produto, que também segue a mesma estrutura, com validações e regras na camada 
 de negócio. O relacionamento entre Fornecedor e Produto é 1:N, onde um fornecedor pode ter vários produtos 
 associados. O projeto permite o cadastro, alteração e gestão desses dados (fornecedor, endereço e produtos) 
 através de uma API, que integra a camada de negócio e acesso a dados. As funcionalidades incluem cadastro 
 e alteração de fornecedores e endereços, bem como a gestão de produtos e imagens associadas a cada fornecedor.
+</p>
 
 ## 🛠️ Construído com
 
