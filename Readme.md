@@ -44,12 +44,14 @@ NuGet\Install-Package Swashbuckle.AspNetCore.Swagger -Version 6.3.0
 ```
 
 * [FluentValidation](https://docs.fluentvalidation.net/en/latest/) - 
+Foi utilizada essa biblioteca para validação de objetos.
 
 ```
 NuGet\Install-Package FluentValidation -Version 10.3.6
 ```
 
 * [Microsoft.EntityFrameworkCore](https://learn.microsoft.com/pt-br/ef/core/get-started/overview/install) - 
+Foi utilizado esse ORM para interagir com bancos de dados usando objetos.
 
 ```
 NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 6.0.3
