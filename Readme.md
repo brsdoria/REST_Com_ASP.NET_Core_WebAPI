@@ -57,6 +57,13 @@ Foi utilizado esse ORM para interagir com bancos de dados usando objetos.
 NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 6.0.3
 ```
 
+* [Elmah](https://learn.microsoft.com/pt-br/aspnet/web-forms/overview/older-versions-getting-started/deploying-web-site-projects/logging-error-details-with-elmah-cs) - 
+Foi utilizada essa biblioteca para registrar e monitorar erros de aplicação em tempo real.
+
+```
+NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 6.0.3
+```
+
 ## 🚧 Fluxo da Arquitetura do Projeto
 
 Fluxo da arquitetura segundo a imagem abaixo é composta da seguinte forma:
