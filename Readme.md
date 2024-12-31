@@ -30,25 +30,25 @@ e alteração de fornecedores e endereços, bem como a gestão de produtos e ima
 dotnet add package Microsoft.NET.Sdk.Web --version 6.0.0
 ```
 
-* [AutoMapper]() - 
+* [AutoMapper](https://automapper.org/) - 
 
 ```
 NuGet\Install-Package AutoMapper -Version 11.0.0
 ```
 
-* [Swashbuckle]() - 
+* [Swashbuckle](https://learn.microsoft.com/pt-br/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-8.0&tabs=visual-studio) - 
 
 ```
 NuGet\Install-Package Swashbuckle.AspNetCore.Swagger -Version 6.3.0
 ```
 
-* [FluentValidation]() - 
+* [FluentValidation](https://docs.fluentvalidation.net/en/latest/) - 
 
 ```
 NuGet\Install-Package FluentValidation -Version 10.3.6
 ```
 
-* [Microsoft.EntityFrameworkCore]() - 
+* [Microsoft.EntityFrameworkCore](https://learn.microsoft.com/pt-br/ef/core/get-started/overview/install) - 
 
 ```
 NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 6.0.3
