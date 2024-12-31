@@ -37,28 +37,28 @@ NuGet\Install-Package AutoMapper -Version 11.0.0
 ```
 
 * [Swashbuckle](https://learn.microsoft.com/pt-br/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-8.0&tabs=visual-studio) - 
-Foi utilizado essa biblioteca facilitar a criação de uma interface visual para testar, explorar e documentar as APIs, sem a necessidade de escrever manualmente a documentação.
+Biblioteca facilitar a criação de uma interface visual para testar, explorar e documentar as APIs, sem a necessidade de escrever manualmente a documentação.
 
 ```
 NuGet\Install-Package Swashbuckle.AspNetCore.Swagger -Version 6.3.0
 ```
 
 * [FluentValidation](https://docs.fluentvalidation.net/en/latest/) - 
-Foi utilizada essa biblioteca para validação de objetos.
+Biblioteca para validação de objetos.
 
 ```
 NuGet\Install-Package FluentValidation -Version 10.3.6
 ```
 
 * [Microsoft.EntityFrameworkCore](https://learn.microsoft.com/pt-br/ef/core/get-started/overview/install) - 
-Foi utilizado esse ORM para interagir com bancos de dados usando objetos.
+ORM para interagir com bancos de dados usando objetos.
 
 ```
 NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 6.0.3
 ```
 
 * [Elmah](https://learn.microsoft.com/pt-br/aspnet/web-forms/overview/older-versions-getting-started/deploying-web-site-projects/logging-error-details-with-elmah-cs) - 
-Foi utilizada essa biblioteca para registrar e monitorar erros de aplicação em tempo real.
+Biblioteca para registrar e monitorar erros de aplicação em tempo real.
 
 ```
 NuGet\Install-Package Elmah.Io.AspNetCore -Version 4.1.37
