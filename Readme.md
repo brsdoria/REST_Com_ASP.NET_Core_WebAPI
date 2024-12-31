@@ -30,7 +30,7 @@ e alteração de fornecedores e endereços, bem como a gestão de produtos e ima
 dotnet add package Microsoft.NET.Sdk.Web --version 6.0.0
 ```
 
-* [AutoMapper](https://automapper.org/) - 
+* [AutoMapper](https://automapper.org/) - Foi utilizada essa biblioteca para mapeamento de objetos.
 
 ```
 NuGet\Install-Package AutoMapper -Version 11.0.0
