@@ -33,25 +33,25 @@ dotnet add package Microsoft.NET.Sdk.Web --version 6.0.0
 * [AutoMapper]() - 
 
 ```
-11.0.0
+NuGet\Install-Package AutoMapper -Version 11.0.0
 ```
 
 * [Swashbuckle]() - 
 
 ```
-6.3.0
+NuGet\Install-Package Swashbuckle.AspNetCore.Swagger -Version 6.3.0
 ```
 
 * [FluentValidation]() - 
 
 ```
-10.3.6
+NuGet\Install-Package FluentValidation -Version 10.3.6
 ```
 
 * [Microsoft.EntityFrameworkCore]() - 
 
 ```
-6.0.3
+NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 6.0.3
 ```
 
 ## 🚧 Fluxo da Arquitetura do Projeto
