@@ -61,7 +61,7 @@ NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 6.0.3
 Foi utilizada essa biblioteca para registrar e monitorar erros de aplicação em tempo real.
 
 ```
-NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 6.0.3
+NuGet\Install-Package Elmah.Io.AspNetCore -Version 4.1.37
 ```
 
 ## 🚧 Fluxo da Arquitetura do Projeto
