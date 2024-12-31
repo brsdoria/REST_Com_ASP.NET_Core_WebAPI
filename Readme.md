@@ -61,13 +61,13 @@ NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 6.0.3
 
 Fluxo da arquitetura segundo a imagem abaixo é composta da seguinte forma:
 
-![FluxoArquitetura](screenshots/fluxo_da_arquitetura.png)
+![FluxoArquitetura](screenshots/fluxo_da_arquitetura.PNG)
 
 ## 🚧 Descrição da Estrutura do Projeto
 
 A estrutura do projeto segundo a imagem abaixo é composta da seguinte forma:
 
-![EstruturaDoProjeto](screenshots/estrutura.png)
+![EstruturaDoProjeto](screenshots/estrutura.PNG)
 
 ## ⚠️ Atenção
 
