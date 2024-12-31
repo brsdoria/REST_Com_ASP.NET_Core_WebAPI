@@ -37,7 +37,7 @@ NuGet\Install-Package AutoMapper -Version 11.0.0
 ```
 
 * [Swashbuckle](https://learn.microsoft.com/pt-br/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-8.0&tabs=visual-studio) - 
-O objetivo principal do Swashbuckle é facilitar a criação de uma interface visual para testar, explorar e documentar as APIs, sem a necessidade de escrever manualmente a documentação.
+Foi utilizado essa biblioteca facilitar a criação de uma interface visual para testar, explorar e documentar as APIs, sem a necessidade de escrever manualmente a documentação.
 
 ```
 NuGet\Install-Package Swashbuckle.AspNetCore.Swagger -Version 6.3.0
