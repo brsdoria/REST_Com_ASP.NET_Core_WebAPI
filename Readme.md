@@ -43,8 +43,7 @@ Biblioteca facilitar a criação de uma interface visual para testar, explorar e
 NuGet\Install-Package Swashbuckle.AspNetCore.Swagger -Version 6.3.0
 ```
 
-* [FluentValidation](https://docs.fluentvalidation.net/en/latest/) - 
-Biblioteca para validação de objetos.
+* [FluentValidation](https://docs.fluentvalidation.net/en/latest/) - Biblioteca de validação de dados para aplicações .NET que permite validar objetos.
 
 ```
 NuGet\Install-Package FluentValidation -Version 10.3.6
