@@ -2,9 +2,9 @@
 
 ## 📝️ Escopo do Projeto
 
-<p align="justify"> 
-O projeto envolve três entidades na camada de negócio que interagem com o banco de dados. 
-A entidade Fornecedor possui regras de negócios e validações, representando uma tabela no banco de dados. 
+<p align="justify">
+O projeto demonstra a criando de APIs em ASP.NET Core utilizando Web API, que envolve três entidades na camada de negócio que interagem 
+com o banco de dados. A entidade Fornecedor possui regras de negócios e validações, representando uma tabela no banco de dados. 
 Ao cadastrar um fornecedor, é necessário também cadastrar seu Endereço, que também é uma entidade com 
 validações e regras, representando uma tabela no banco, e tem um relacionamento 1:1 com o fornecedor, pois 
 cada fornecedor possui apenas um endereço.
