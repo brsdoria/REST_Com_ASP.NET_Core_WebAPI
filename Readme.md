@@ -36,8 +36,7 @@ dotnet add package Microsoft.NET.Sdk.Web --version 6.0.0
 NuGet\Install-Package AutoMapper -Version 11.0.0
 ```
 
-* [Swashbuckle](https://learn.microsoft.com/pt-br/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-8.0&tabs=visual-studio) - 
-Biblioteca facilitar a criação de uma interface visual para testar, explorar e documentar as APIs, sem a necessidade de escrever manualmente a documentação.
+* [Swashbuckle](https://learn.microsoft.com/pt-br/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-8.0&tabs=visual-studio) - Biblioteca facilitar a criação de uma interface visual para testar, explorar e documentar as APIs, sem a necessidade de escrever manualmente a documentação.
 
 ```
 NuGet\Install-Package Swashbuckle.AspNetCore.Swagger -Version 6.3.0
