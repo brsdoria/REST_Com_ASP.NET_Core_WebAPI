@@ -30,7 +30,7 @@ e alteração de fornecedores e endereços, bem como a gestão de produtos e ima
 dotnet add package Microsoft.NET.Sdk.Web --version 6.0.0
 ```
 
-* [AutoMapper](https://automapper.org/) - Foi utilizada essa biblioteca para mapear objetos.
+* [AutoMapper](https://automapper.org/) - Biblioteca de mapeamento de objetos no desenvolvimento de software, ela facilita o processo de conversão de dados entre objetos de tipos diferentes, evitando que o desenvolvedor precise escrever código repetitivo para copiar valores entre as propriedades de objetos.
 
 ```
 NuGet\Install-Package AutoMapper -Version 11.0.0
