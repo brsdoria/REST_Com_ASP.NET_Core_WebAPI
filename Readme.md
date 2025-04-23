@@ -79,4 +79,4 @@ A estrutura do projeto segundo a imagem abaixo é composta da seguinte forma:
 Destinado exclusivamente para fins de estudo.
 
 ---
-⌨️ por [Byron Doria](https://gist.github.com/lohhans) 😊
+⌨️ por [Byron Doria](https://github.com/brsdoria) 😊
